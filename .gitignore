@@ -1,2 +1,5 @@
 # Virtual Environment
 stadvdb_env
+
+# env
+.env
