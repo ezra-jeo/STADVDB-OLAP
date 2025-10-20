@@ -3,3 +3,6 @@ stadvdb_env
 
 # env
 .env
+
+# cache
+./src/__pycache__
